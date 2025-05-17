@@ -1,0 +1,6 @@
+{
+    "help-command": "Haritada bir nokta belirler",
+    "help-param": "Posta kodu",
+    "not-found": "Posta kodu %s mevcut değil",
+    "set-success": "Posta kodu %s için nokta ayarlandı"
+}

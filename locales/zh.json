@@ -1,0 +1,6 @@
+{
+    "help-command": "在地圖上設置一個導航點",
+    "help-param": "郵遞區號",
+    "not-found": "郵遞區號 %s 不存在",
+    "set-success": "導航點已設置於郵遞區號 %s"
+}
