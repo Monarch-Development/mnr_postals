@@ -1,6 +1,6 @@
-Config = lib.load("config.config")
+local config = lib.load("config.config")
 
-lib.addCommand(Config.CommandName, {
+lib.addCommand(config.command, {
     help = locale("help-command"),
     params = {
         {

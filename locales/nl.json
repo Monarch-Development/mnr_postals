@@ -1,6 +1,6 @@
 {
     "help-command": "Stelt een waypoint op de kaart in",
     "help-param": "Postcode",
-    "not-found": "De postcode %s bestaat niet",
-    "set-success": "Waypoint ingesteld op postcode %s"
+    "not-found": "De postcode %d bestaat niet",
+    "set-success": "Waypoint ingesteld op postcode %d"
 }

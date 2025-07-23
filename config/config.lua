@@ -1,4 +1,4 @@
 return {
-    CommandName = "gps",
-    PostalFilePath = "data.ocrp",
+    command = "gps",
+    path = "data.ocrp",
 }
