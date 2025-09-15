@@ -1,4 +1,5 @@
 ## Monarch Postals
+![mnr_postals](https://raw.githubusercontent.com/Monarch-Development/.github/refs/heads/main/release_images/mnr_postals.png)
 Simple script that allows player to set waypoints to specific postal codes with `/gps`
 
 ## Credits
