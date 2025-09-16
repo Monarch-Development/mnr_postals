@@ -13,4 +13,4 @@ To set a Waypoint to a certain postal, type `/gps [postalCode]`
 
 ## Links
 - [Discord](https://discord.gg/WKtk65yBC6)
-- [Documentation](https://monarch-docs.ricodev.it/docs/monarch-resources/mnr_postals)
+- [Documentation](https://monarch-development.pages.dev/docs/monarch-resources/mnr_postals)
