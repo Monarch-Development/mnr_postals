@@ -1,0 +1,6 @@
+{
+    "help_command": "Weka alama kwenye ramani",
+    "help_param": "Msimbo wa posta",
+    "not_found": "Msimbo wa posta %d haupo",
+    "set_success": "Alama imewekwa kwa msimbo wa posta %d"
+}

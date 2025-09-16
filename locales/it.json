@@ -1,6 +1,6 @@
 {
-    "help_command": "Imposta una destinazione in mappa",
-    "help_param": "Civico",
-    "not_found": "Il civico %d non esiste",
-    "set_success": "Destinazione impostata al civico %d"
+    "help_command": "Imposta un punto sulla mappa",
+    "help_param": "Codice postale",
+    "not_found": "Il codice postale %d non esiste",
+    "set_success": "Punto impostato al codice postale %d"
 }

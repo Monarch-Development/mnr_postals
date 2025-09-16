@@ -1,0 +1,6 @@
+{
+    "help_command": "Ustawia punkt na mapie",
+    "help_param": "Kod pocztowy",
+    "not_found": "Kod pocztowy %d nie istnieje",
+    "set_success": "Punkt ustawiony na kod pocztowy %d"
+}

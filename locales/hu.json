@@ -1,0 +1,6 @@
+{
+    "help_command": "Útpontot állít be a térképen",
+    "help_param": "Irányítószám",
+    "not_found": "A(z) %d irányítószám nem létezik",
+    "set_success": "Útpont beállítva a(z) %d irányítószámra"
+}

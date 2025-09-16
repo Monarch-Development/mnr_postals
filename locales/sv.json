@@ -1,0 +1,6 @@
+{
+    "help_command": "Ställer in en punkt på kartan",
+    "help_param": "Postnummer",
+    "not_found": "Postnumret %d finns inte",
+    "set_success": "Punkt inställd på postnummer %d"
+}

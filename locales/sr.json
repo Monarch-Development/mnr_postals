@@ -1,0 +1,6 @@
+{
+    "help_command": "Postavlja tačku na mapi",
+    "help_param": "Poštanski broj",
+    "not_found": "Poštanski broj %d ne postoji",
+    "set_success": "Tačka postavljena na poštanski broj %d"
+}

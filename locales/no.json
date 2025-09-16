@@ -1,0 +1,6 @@
+{
+    "help_command": "Setter et veipunkt på kartet",
+    "help_param": "Postnummer",
+    "not_found": "Postnummeret %d finnes ikke",
+    "set_success": "Veipunkt satt til postnummer %d"
+}

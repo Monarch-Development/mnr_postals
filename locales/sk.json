@@ -1,0 +1,6 @@
+{
+    "help_command": "Nastaví bod na mape",
+    "help_param": "PSČ",
+    "not_found": "PSČ %d neexistuje",
+    "set_success": "Bod nastavený na PSČ %d"
+}

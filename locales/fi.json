@@ -1,0 +1,6 @@
+{
+    "help_command": "Asettaa reittipisteen kartalle",
+    "help_param": "Postinumero",
+    "not_found": "Postinumeroa %d ei ole olemassa",
+    "set_success": "Reittipiste asetettu postinumeroon %d"
+}

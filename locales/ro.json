@@ -1,0 +1,6 @@
+{
+    "help_command": "Setează un punct pe hartă",
+    "help_param": "Cod poștal",
+    "not_found": "Codul poștal %d nu există",
+    "set_success": "Punct setat la codul poștal %d"
+}

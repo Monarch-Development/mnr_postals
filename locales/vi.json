@@ -1,0 +1,6 @@
+{
+    "help_command": "Đặt điểm trên bản đồ",
+    "help_param": "Mã bưu điện",
+    "not_found": "Mã bưu điện %d không tồn tại",
+    "set_success": "Điểm đã được đặt tại mã bưu điện %d"
+}

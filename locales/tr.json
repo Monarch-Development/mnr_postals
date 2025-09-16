@@ -1,6 +1,6 @@
 {
-    "help_command": "Haritada bir nokta belirler",
+    "help_command": "Haritada bir nokta ayarlar",
     "help_param": "Posta kodu",
     "not_found": "Posta kodu %d mevcut değil",
-    "set_success": "Posta kodu %d için nokta ayarlandı"
+    "set_success": "Nokta posta kodu %d için ayarlandı"
 }

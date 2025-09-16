@@ -2,5 +2,5 @@
     "help_command": "Définit un point sur la carte",
     "help_param": "Code postal",
     "not_found": "Le code postal %d n'existe pas",
-    "set_success": "Point défini au code postal %d"
+    "set_success": "Point défini sur le code postal %d"
 }

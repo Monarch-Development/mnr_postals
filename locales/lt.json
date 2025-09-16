@@ -1,6 +1,6 @@
 {
-    "help_command": "Nustatykite žymeklį žemėlapyje",
+    "help_command": "Nustato tašką žemėlapyje",
     "help_param": "Pašto kodas",
     "not_found": "Pašto kodas %d neegzistuoja",
-    "set_success": "Žymeklis nustatytas į pašto kodą %d"
+    "set_success": "Taškas nustatytas ties pašto kodu %d"
 }
