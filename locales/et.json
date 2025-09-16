@@ -1,0 +1,6 @@
+{
+    "help_command": "Määrab punkti kaardile",
+    "help_param": "Postiindeks",
+    "not_found": "Postiindeks %d ei eksisteeri",
+    "set_success": "Punkt määratud postiindeksile %d"
+}

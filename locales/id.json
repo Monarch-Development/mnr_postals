@@ -1,0 +1,6 @@
+{
+    "help_command": "Atur titik di peta",
+    "help_param": "Kode pos",
+    "not_found": "Kode pos %d tidak ada",
+    "set_success": "Titik ditetapkan ke kode pos %d"
+}

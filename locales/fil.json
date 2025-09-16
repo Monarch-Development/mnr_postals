@@ -1,0 +1,6 @@
+{
+    "help_command": "Magtakda ng punto sa mapa",
+    "help_param": "Postal Code",
+    "not_found": "Ang postal code %d ay hindi umiiral",
+    "set_success": "Itinakda ang punto sa postal code %d"
+}

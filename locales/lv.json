@@ -1,0 +1,6 @@
+{
+    "help_command": "Iestata punktu kartē",
+    "help_param": "Pasta indekss",
+    "not_found": "Pasta indekss %d neeksistē",
+    "set_success": "Punkts iestatīts pasta indeksam %d"
+}
