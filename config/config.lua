@@ -1,4 +1,5 @@
 return {
-    command = "gps",
-    path = "data.ocrp",
+    command = 'gps',
+    path = 'data.ocrp',
+    exportMode = false,
 }

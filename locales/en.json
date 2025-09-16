@@ -1,6 +1,6 @@
 {
-    "help-command": "Sets a waypoint on the map",
-    "help-param": "Postal Code",
-    "not-found": "The postal %d doesn't exist",
-    "set-success": "Waypoint set to postal %d"
+    "help_command": "Sets a waypoint on the map",
+    "help_param": "Postal Code",
+    "not_found": "The postal %d doesn't exist",
+    "set_success": "Waypoint set to postal %d"
 }

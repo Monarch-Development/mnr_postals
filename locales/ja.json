@@ -1,6 +1,6 @@
 {
-    "help-command": "マップにウェイポイントを設定",
-    "help-param": "郵便番号",
-    "not-found": "郵便番号 %d は存在しません",
-    "set-success": "ウェイポイントを郵便番号 %d に設定しました"
+    "help_command": "マップにウェイポイントを設定",
+    "help_param": "郵便番号",
+    "not_found": "郵便番号 %d は存在しません",
+    "set_success": "ウェイポイントを郵便番号 %d に設定しました"
 }

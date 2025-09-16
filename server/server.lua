@@ -1,12 +1,12 @@
-local config = lib.load("config.config")
+local config = lib.load('config.config')
 
 lib.addCommand(config.command, {
-    help = locale("help-command"),
+    help = locale('help_command'),
     params = {
         {
             name = "postal",
             type = "number",
-            help = locale("help-param"),
+            help = locale('help_param'),
         },
     },
     restricted = false

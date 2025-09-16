@@ -1,16 +1,19 @@
-local path = lib.load("config.config").path
-local postals = lib.load(path)
+local config = lib.load('config.config')
+local postals = lib.load(config.path)
 
-RegisterNetEvent("mnr_postals:client:SetWaypoint", function(code)
+RegisterNetEvent('mnr_postals:client:SetWaypoint', function(code)
     local postal = postals[code]
     if not postal then
-        lib.notify({ description = locale("not-found"):format(code), position = "top", type = "error" })
+        lib.notify({ description = locale('not_found'):format(code), position = 'top', type = 'error' })
         return
     end
 
     SetNewWaypoint(postal.x, postal.y)
-    lib.notify({ description = locale("set-success"):format(code), position = "top", type = "success" })
+    lib.notify({ description = locale('set_success'):format(code), position = 'top', type = 'success' })
 end)
+
+---@description The section below is for HUD integrations to obtain nearest postal and display it
+if not config.exportMode then return end
 
 for code, coords in pairs(postals) do
     lib.grid.addEntry({
@@ -48,4 +51,4 @@ local function getNearestPostal(coords)
     return nearest
 end
 
-exports("getNearestPostal", getNearestPostal)
+exports('getNearestPostal', getNearestPostal)
